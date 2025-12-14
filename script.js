@@ -7,8 +7,8 @@ let path;
 let state=0;
 let fr = 20;
 
-let width=600;
-let height=600;
+let width=1200;
+let height=1200;
 
 window.onload = ()=>{
     document.querySelectorAll('button').forEach(btn=>{
