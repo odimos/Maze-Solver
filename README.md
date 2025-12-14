@@ -1,10 +1,8 @@
 # Maze-Solver
-Visualization of maze solving using the A* search algorithm.
+Visualization of maze solving using Greedy Best-First Search
 
-## A* Evaluation Function
-f(n) = h(n)
-- h(n): horizontal and vertical distance from the current position to the goal
-  (Manhattan distance)
+## Evaluation Function
+Horizontal and vertical distance from the current position to the goal(Manhattan distance)
 
 ## Technologies
 HTML, CSS, JavaScript, p5.js
