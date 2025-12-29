@@ -1,5 +1,6 @@
 # Maze Solver 
-Visualization of maze solving using Greedy Best-First Search
+Visualization of maze solving using Greedy Best-First Search.
+Javascript with p5.js
 
 ## Evaluation Function
 Horizontal and vertical distance from the current position to the goal(Manhattan distance)
